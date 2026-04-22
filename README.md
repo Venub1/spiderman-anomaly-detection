@@ -216,7 +216,8 @@ Instead of just identifying objects, the system evaluates **what those objects m
 
 ## 📸 Demo
 
-*(Add your screenshots here)*
+<img width="1024" height="600" alt="image" src="https://github.com/user-attachments/assets/62f74861-7ede-4bbc-adb7-8691032bc59e" />
+
 
 ```
 ![Dashboard](screenshots/dashboard.png)
