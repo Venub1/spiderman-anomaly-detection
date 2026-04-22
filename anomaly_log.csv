@@ -1,0 +1,79 @@
+Timestamp,Anomaly_Type,Details
+2026-04-22 06:28:08,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:28:43,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:28:49,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:28:52,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:28:55,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:29:08,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:29:11,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:29:21,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:29:24,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:29:28,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:29:45,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:29:48,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:29:51,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:29:54,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:30:09,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:30:18,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:30:21,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:30:27,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:30:35,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:30:42,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:30:55,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:31:10,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:31:10,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:32:04,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:32:07,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:32:10,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:32:23,COUNT,Detected 3 people (> 2)
+2026-04-22 06:32:28,COUNT,Detected 3 people (> 2)
+2026-04-22 06:42:07,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:10,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:17,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:21,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:36,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:38,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:42:44,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:47,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:51,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:54,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:42:57,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:43:01,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:43:04,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:44:14,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:44:14,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:44:22,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:44:22,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:44:22,FORBIDDEN,"Detected forbidden object(s): cup, wine glass"
+2026-04-22 06:44:25,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:44:25,FORBIDDEN,"Detected forbidden object(s): cup, wine glass"
+2026-04-22 06:44:25,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:45:09,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:45:27,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:45:40,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:45:44,FORBIDDEN,Detected forbidden object(s): remote
+2026-04-22 06:45:56,FORBIDDEN,Detected forbidden object(s): remote
+2026-04-22 06:46:11,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:46:23,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:46:25,FORBIDDEN,Detected forbidden object(s): remote
+2026-04-22 06:46:26,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:46:44,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:46:48,FORBIDDEN,Detected forbidden object(s): phone
+2026-04-22 06:47:04,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:47:26,FORBIDDEN,Detected forbidden object(s): remote
+2026-04-22 06:47:44,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:47:52,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:48:16,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:49:02,FORBIDDEN,Detected forbidden object(s): wine glass
+2026-04-22 06:49:03,FORBIDDEN,Detected forbidden object(s): laptop
+2026-04-22 06:49:04,FORBIDDEN,Detected forbidden object(s): remote
+2026-04-22 06:49:11,FORBIDDEN,Detected forbidden object(s): laptop
+2026-04-22 06:49:14,FORBIDDEN,Detected forbidden object(s): laptop
+2026-04-22 06:49:21,FORBIDDEN,Detected forbidden object(s): laptop
+2026-04-22 06:49:24,FORBIDDEN,Detected forbidden object(s): laptop
+2026-04-22 06:49:42,FORBIDDEN,Detected forbidden object(s): wine bottle
+2026-04-22 06:49:42,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:49:43,FORBIDDEN,"Detected forbidden object(s): cup, wine bottle"
+2026-04-22 06:49:45,FORBIDDEN,Detected forbidden object(s): cup
+2026-04-22 06:49:47,FORBIDDEN,Detected forbidden object(s): laptop
+2026-04-22 06:49:50,FORBIDDEN,Detected forbidden object(s): wine bottle
